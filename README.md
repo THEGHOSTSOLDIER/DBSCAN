@@ -25,4 +25,4 @@ Curious? A lot of knowledge is waiting for you [here](https://en.wikipedia.org/w
 
 > Copyright (c) 2022 THEGHOSTSOLDIER
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](https://github.com/THEGHOSTSOLDIER/DBSCANRework/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](https://github.com/THEGHOSTSOLDIER/DBSCANRework/blob/master/LICENSE) file for details.
