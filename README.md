@@ -19,7 +19,7 @@ Expand `Linker`, click on `Input`, add `"C:\Users\%USERNAME%\AppData\Local\Progr
 ## FAQ
 
 ### What is DBSCAN?
-Curious? a lot of knowledge is waiting for you [here](https://en.wikipedia.org/wiki/DBSCAN)
+Curious? A lot of knowledge is waiting for you [here](https://en.wikipedia.org/wiki/DBSCAN)
 
 ## License
 
